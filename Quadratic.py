@@ -1,0 +1,6 @@
+a = int(input("What is the value of A: "))
+b = int(input("What is the value of B: "))
+c = int(input("What is the value of C: "))
+x = int(input("What is the value of X: "))
+quad = ((a*(x*x))+(b*x)+(c))
+print("The value of the quadratic is", quad)
